@@ -1,6 +1,6 @@
-Playrn
+Playrn Dapp
 
-Is a platform in which musicians can make drops of their music and the fans can listen to them and be 
+A platform in which musicians can make drops of their music and the fans can listen to them and be 
 rewarded with tokens that they can exchange for NFTs with different utilities like meet and greets, 
 special merch, backstage, front row, special prices for tickets.  
 

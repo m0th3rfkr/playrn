@@ -8,3 +8,5 @@ Promote co - listenings to get additional rewards, the larger the group the bigg
 People can also become curators by paying artists to repost their sounds on their personal profiles 
 and if other users listen to the tracks from their profile they also earn play tokens. 
 You can comment on the artist's posts if you pay the artist.
+
+![Untitled_Artwork (1)](https://user-images.githubusercontent.com/111037456/185769996-ec85e90c-c130-40d7-b00b-87efb5f2f87b.gif)
